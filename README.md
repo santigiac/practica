@@ -41,8 +41,8 @@ Duis culpa ipsum culpa enim. Minim consectetur laboris anim tempor cupidatat. Du
 ```
 ## HYPERVINCULO
 
-[hypervinculo](URL"pincha aqui")
-[PAgina cole](https://www.fje.edu/ca/jesuites-bellvitge "OLEOLE")
+
+[Pagina cole](https://www.fje.edu/ca/jesuites-bellvitge "OLEOLE")
 
 ## COMO POPNER UNA IMAGEN
-![ESTA IMAGEN NO HA PODIDO CARGAR ERROR 404](c:\Repositorios\practica\800px-Empoleon.png "empoleon")
+![ESTA IMAGEN NO HA PODIDO CARGAR ERROR 404](800px-Empoleon.png "empoleon")
