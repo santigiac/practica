@@ -46,3 +46,9 @@ Duis culpa ipsum culpa enim. Minim consectetur laboris anim tempor cupidatat. Du
 
 ## COMO POPNER UNA IMAGEN
 ![ESTA IMAGEN NO HA PODIDO CARGAR ERROR 404](800px-Empoleon.png "empoleon")
+
+## TABLAS
+
+| Titulo 1 | Titulo 2 | TItulo 3 |
+|----------------|:------------:|-----------------:|
+|IZQUIERDAAA|MEDIOOOOOOOO|DERECHAAAAAAAAA|
