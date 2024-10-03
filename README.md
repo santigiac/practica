@@ -29,5 +29,13 @@ Las etiquetas pueden adinarse **_2024_** __*HOLA MUNDO*__
 
 + Lista desordenada con el mas 
 
-Lore
+LoreAdipisicing voluptate proident cillum aute irure dolore tempor exercitation voluptate pariatur et ut proident nostrud. Ad laborum ex anim anim anim. Mollit minim sint pariatur commodo irure. Nostrud in commodo consequat officia nisi eu eiusmod occaecat quis minim amet commodo. Fugiat magna pariatur occaecat irure qui ut pariatur ipsum veniam ullamco nostrud.
+Duis culpa ipsum culpa enim. Minim consectetur laboris anim tempor cupidatat. Duis officia minim id dolore anim elit adipisicing nisi enim veniam ipsum. Pariatur sunt do velit nisi consequat proident nulla. Nisi eu minim deserunt veniam eiusmod.
 
+**Como mostrar un codigo en un repositorio**
+```
+<HTML>
+<HEAD></HEAD>
+<BODY></BODY>
+</HTML>
+```
